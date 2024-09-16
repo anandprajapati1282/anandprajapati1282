@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandprajapati1282
+- 👋 Hi, I’m @anandprajapati
 - 👀 I’m interested in computer technology
 - 🌱 I’m currently pursuing bachelor degree in computer science
 - 💞️ I’m looking to collaborate on ...
